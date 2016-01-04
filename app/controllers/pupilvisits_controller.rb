@@ -1,0 +1,2 @@
+class PupilvisitsController < ApplicationController
+end
