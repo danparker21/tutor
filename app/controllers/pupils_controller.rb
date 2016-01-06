@@ -4,6 +4,5 @@ class PupilsController < ApplicationController
 	end
 
 	def edit
-
 	end
 end
