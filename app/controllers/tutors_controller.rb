@@ -6,4 +6,3 @@ class TutorsController < ApplicationController
 	end
 
 end
-rails 
